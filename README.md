@@ -1,4 +1,4 @@
-#Fitts
+# Fitts
 This program demonstrates Fitts's law: T = a + b * log2 (2d/w).
 
 Fitts's law is a predictive model of human movement primarily used in human–computer interaction and ergonomics.
